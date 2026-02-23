@@ -156,8 +156,8 @@ Other characters that may need escaping include:
 Instead of using backslashes, you can use these encoded character codes to represent special characters:
 
 ```js
-#RIGHT# =>> [
-#LEFT# =>> ]
+#RIGHT# =>> ]
+#LEFT# =>> [
 #SEMI# =>> ;
 #COLON# =>> :
 #DOLLAR# =>> $
